@@ -1,0 +1,13 @@
+[0m[[0minfo[0m] [0mPackaging /home/arlindo/projects/sparkapp/target/scala-2.11/spark-simple-app_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	pl[0m
+[0m[[0mdebug[0m] [0m	  /home/arlindo/projects/sparkapp/target/scala-2.11/classes/pl[0m
+[0m[[0mdebug[0m] [0m	pl/sarlindo/spark[0m
+[0m[[0mdebug[0m] [0m	  /home/arlindo/projects/sparkapp/target/scala-2.11/classes/pl/sarlindo/spark[0m
+[0m[[0mdebug[0m] [0m	pl/sarlindo[0m
+[0m[[0mdebug[0m] [0m	  /home/arlindo/projects/sparkapp/target/scala-2.11/classes/pl/sarlindo[0m
+[0m[[0mdebug[0m] [0m	pl/sarlindo/spark/SparkApp$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/arlindo/projects/sparkapp/target/scala-2.11/classes/pl/sarlindo/spark/SparkApp$.class[0m
+[0m[[0mdebug[0m] [0m	pl/sarlindo/spark/SparkApp.class[0m
+[0m[[0mdebug[0m] [0m	  /home/arlindo/projects/sparkapp/target/scala-2.11/classes/pl/sarlindo/spark/SparkApp.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
